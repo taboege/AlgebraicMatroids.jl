@@ -1,0 +1,8 @@
+name = "AlgebraicMatroids"
+uuid = "f7c41196-a5bd-45ad-a982-d67248729b80"
+authors = ["Tobias Boege <tobs@taboege.de>"]
+version = "0.1.0"
+
+[deps]
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+Oscar = "f1435218-dba5-11e9-1e4d-f1a5fab5fc13"
